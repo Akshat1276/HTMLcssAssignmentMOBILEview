@@ -563,8 +563,10 @@ color: #232323;
     text-align: center;
     left: 44px;
     top: 424px;
+    padding-top: 4px;
     font-size: 9.72px;
-    width: 104.18999481201172px;
+    font-family: "Lato";
+    width: 78.18999481201172px;
     height: 22.67999839782715px;
     border-width: 0.61px;
     box-sizing: border-box;
@@ -577,8 +579,10 @@ color: #232323;
     text-align: center;
     right: 44px;
     top: 424px;
+    font-family: "Lato";
+    padding-top: 4px;
     font-size: 9.72px;
-    width: 104.18999481201172px;
+    width: 166.18999481201172px;
     height: 22.67999839782715px;
     border-width: 0.61px;
     box-sizing: border-box;
@@ -586,3 +590,4 @@ color: #232323;
     border: 0.6075px solid #232323;
     border-radius: 1.215px;
 }
+
