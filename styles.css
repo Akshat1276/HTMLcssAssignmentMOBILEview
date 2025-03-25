@@ -495,3 +495,94 @@ align-items: center;
 letter-spacing: 0.02em;
 color: #232323;
 }
+
+.rgpcontent{
+position: absolute;
+width: 360px;
+height: 800px;
+left: 0px;
+top: 1600px;
+background: #FFFFFF;
+}
+
+.leftArrow{
+width: 9.053149223327637px;
+height: 14.660969734191895px;
+top: 123.86px;
+left: 16px;
+position: absolute;
+
+}
+.rgpcontImg{
+position: absolute;
+width: 270.07379150390625px;
+height: 186.9741668701172px;
+top: 38px;
+left: 44px;
+border-radius: 3.6px;
+border-bottom-width: 0.9px;
+border-radius: 3.6px;
+}
+.rightArrow{
+    width: 9.053149223327637px;
+    height: 14.660969734191895px;
+    top: 123.86px;
+    left: 334.23px;
+    position: absolute;
+}
+.fogRemoval{
+    position: absolute;
+    left: 11.94%;
+    right: 12.78%;
+    top: 29.38%;
+    bottom: 66.12%;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #232323;
+}
+
+.fogInfo{
+position: absolute;
+left: 12.5%;
+right: 12.78%;
+top: 35.38%;
+bottom: 48.88%;
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+text-align: justify;
+color: #232323;
+}
+
+.readMoreBox{
+    text-align: center;
+    left: 44px;
+    top: 424px;
+    font-size: 9.72px;
+    width: 104.18999481201172px;
+    height: 22.67999839782715px;
+    border-width: 0.61px;
+    box-sizing: border-box;
+    position: absolute;
+    border: 0.6075px solid #232323;
+    border-radius: 1.215px;
+}
+
+.AFL{
+    text-align: center;
+    right: 44px;
+    top: 424px;
+    font-size: 9.72px;
+    width: 104.18999481201172px;
+    height: 22.67999839782715px;
+    border-width: 0.61px;
+    box-sizing: border-box;
+    position: absolute;
+    border: 0.6075px solid #232323;
+    border-radius: 1.215px;
+}
