@@ -1,0 +1,224 @@
+.lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.headerUpper{
+    position: absolute;
+    width: 360px;
+    height: 31px;
+    left: 0px;
+    top: 0px;
+    background: #3C3C3C;
+}
+
+.headerUpperContent{
+    font-family: "Lato", sans-serif;
+    position: absolute;
+    width: 323.49px;
+    height: 13px;
+    left: 18px;
+    top: 10px;
+}
+.hULeft{
+    position: absolute;
+    width: 108.86px;
+    height: 12px;
+    left: -1px;
+    top: 0px;
+}
+.SC{
+    position: absolute;
+    width: 91px;
+    height: 12px;
+    left: -1px;
+    top: 0px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 12px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.hULeft img{
+    position: absolute;
+    right: 66.66%;
+    height: 5.793749809265137;
+    top: 4.44px;   
+    left: 98.18px;
+    bottom: 21.28%;
+    width: 9.684322357177734;
+}
+
+.hURight{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 0px;
+    gap: 9px;
+    position: absolute;
+    width: 126.49px;
+    height: 12px;
+    left: 199px;
+    top: 1px;
+}
+
+.fontSize{
+    display: flex;
+    width: 42.54px;
+    height: 14.5px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.small{
+    position: absolute;
+    width: 10px;
+    height: 11px;
+    left: calc(50% - 10px/2 - 58.25px);
+    top: calc(50% - 11px/2);
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+    color: #FFFFFF;
+}
+
+.medium{
+    position: absolute;
+    width: 8px;
+    height: 13px;
+    left: calc(50% - 8px/2 - 45.75px);
+    top: calc(50% - 13px/2 - 0.5px);
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.5px;
+    line-height: 13px;
+    color: #FFFFFF;
+}
+
+.large{
+    position: absolute;
+    width: 16px;
+    height: 14px;
+    left: calc(50% - 16px/2 - 28.71px);
+    top: calc(50% - 14px/2 - 1.5px);
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+
+.theme{
+    width: 24.14px;
+    height: 11.59px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.light-box{
+box-sizing: border-box;
+position: absolute;
+width: 11.59px;
+height: 11.59px;
+left: 51.54px;
+top: 0.41px;
+background: #FFFFFF;
+border: 0.482813px solid #CFDBE6;
+border-radius: 0.965625px;
+}
+
+.light-text{
+position: absolute;
+width: 4.35px;
+height: 7.24px;
+left: 2.92px;
+top: 0.86px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 6.75937px;
+line-height: 8px;
+color: #232323;
+}
+
+.dark-box{
+box-sizing: border-box;
+position: absolute;
+width: 11.59px;
+height: 11.59px;
+left: 64.09px;
+top: 0.41px;
+background: #F8B300;
+border: 0.375px solid #CFDBE6;
+border-radius: 0.965625px;
+}
+
+.dark-text{
+/* z-index: 5   ; */
+position: absolute;
+width: 4.35px;
+height: 7.24px;
+left: 2.47px;
+top: 0.87px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 6.75937px;
+line-height: 8px;
+color: #232323;
+}
+
+.language{
+    display:flex;
+    width: 41.81px;
+    height: 12px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+.one{
+    position: absolute;
+    width: 19px;
+    height: 9.618749618530273;
+    top: 0.82px;
+    left: 84.68px;
+    border-width: 0.1px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+    color: #FFFFFF;
+    width: 16.200000762939453;
+}
+.two{
+    position: absolute;
+    width: 12px;
+    height: 0px;
+    left: 97px;
+    top: 5px;
+    border: 0.965625px solid #FFFFFF;
+    transform: rotate(90deg);
+    width: 12px;
+}
+.three{
+    position: absolute;
+    width: 19px;
+    height: 11px;
+    left: 107.49px;
+    top: 0.75px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+    color: #FFFFFF;
+}
