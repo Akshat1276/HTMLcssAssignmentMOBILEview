@@ -887,7 +887,7 @@ flex-direction: column;
     top: 4074px;
     left: 0px;
     width: 360px;
-    height: 600px;
+    height: 580px;
     color: #FFFFFF;
 }
 .mileText{
@@ -1019,4 +1019,248 @@ flex-direction: column;
     vertical-align: middle;
     text-transform: uppercase;
     border: 0.61px solid #232323
+}
+.noticeboard{
+    position: absolute;
+    width: 360px;
+    height: 750px;
+    top: 4663px;
+    left: 0px;
+}
+
+.ntext{
+    position:absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 328px;
+    height: 19px;
+    top: 16px;
+    left: 15px;
+    font-family: Lato;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 4%;     
+}
+
+.yn{
+    position: absolute;
+    width: 326px;
+    height: 312px;
+    top: 71px;
+    left: 17px; 
+    background-color: #fdedc3;
+    border-radius: 4px;   
+}
+.yntext{
+    position: absolute;
+    width: 302px;
+    height: 288px;
+    top: 12px;
+    left: 12px;
+    gap: 28px;   
+}
+.adminn{
+    position: absolute;
+    width: 302px;
+    height: 51px;    
+}
+.adminnDate{
+    width: 302px;
+    height: 13px;    
+    position: absolute;
+    justify-content: space-between;
+    display: flex;
+    color: black;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    font-size: 9px;
+    line-height: 100%;
+    letter-spacing: 1.5%;   
+}
+.OM{
+    position: absolute;
+    width: 302px;
+    height: 32px;
+    top: 19px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0%;
+    color: #232323;
+}
+.adminn2{
+    position: absolute;
+    top: 80px;
+}
+.adminn3{
+    position: absolute;
+    top: 160px;
+}
+.adminn4{
+    position: absolute;
+    top: 240px;
+}
+
+.UEtop{
+    position: absolute;
+    width: 328px;
+    height: 19px;
+    top: 427px;
+    left: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 4%;    
+}
+.UEschedule{
+    position: absolute;
+    width: 329px;
+    height: 186.8px;
+    top: 482px;
+    left: 16px;
+    gap: 12px;    
+}
+.UEsched1{
+    position: absolute;
+    width: 328px;
+    height: 96.8px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px #F8B300 solid;
+}
+.UEdat1{
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 0.67px;
+    border: 0.1px solid #000000;
+    box-shadow: 0px 0px 3px 0px #86868633;
+}
+.UEdat1a{
+    position: absolute;
+    width: 32px;
+    height: 48px;
+    top: 12.01px;
+    left: 20.92px;
+    font-family: 'Lato';
+    font-weight: 400;    
+}
+.UEdate1{
+    font-size: 27px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.UEmonth1{
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;    
+}
+.UEdetail1{
+    position: absolute;
+    width: 239px;
+    height: 77.607px;
+    top: 0.39px;
+    left: 89px;    
+}
+.UEdetTop1{
+    width: 73px;
+    height: 19px;
+    top: 0.39px;
+    left: 89.16px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    opacity: 87%;
+}
+.UEdetLow1{
+    position: absolute;
+    width: 239px;
+    height: 52px;
+    top: 26px;
+    left: 0px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 144%; 
+    color: #000000;
+    opacity: 60%;   
+}
+
+.UEsched2{
+    position: absolute;
+    width: 328px;
+    height: 96.8px;
+    display: flex;
+    justify-content: space-between;
+    top: 110px;
+}
+
+.UEdat2{
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 0.67px;
+    border-width: 0.1px;
+    border: 0.1px solid #000000;
+    box-shadow: 0px 0px 3px 0px #86868633; 
+}
+.UEdat2a{
+    position: absolute;
+    width: 32px;
+    height: 48px;
+    top: 12.01px;
+    left: 20.92px;
+    font-family: 'Lato';
+    font-weight: 400;
+}
+.UEdate2{
+    font-size: 27px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.UEmonth2{
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;    
+}
+.UEdetail2{
+    position: absolute;
+    width: 239px;
+    height: 77.607px;
+    top: 0.39px;
+    left: 89px;    
+}
+.UEdetTop2{
+    width: 73px;
+    height: 19px;
+    top: 0.39px;
+    left: 89.16px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    opacity: 87%;
+}
+.UEdetLow2{
+    position: absolute;
+    width: 239px;
+    height: 52px;
+    top: 26px;
+    left: 0px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 144%; 
+    color: #000000;
+    opacity: 60%;   
 }
