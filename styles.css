@@ -1264,3 +1264,279 @@ flex-direction: column;
     color: #000000;
     opacity: 60%;   
 }
+.ImgBeforeFooter{
+    z-index: 2;
+    position: absolute;
+    width: 271px;
+    height: 103px;
+    top: 5388px;
+    left: 43px;
+    border-width: 0.2px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;    
+}
+.footer{
+    position: absolute;
+    background-color: black;
+    width: 360px;
+    height: 1193px;
+    top: 5405px;
+    left: 0;
+}
+.HTRIR{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 184px;
+    height: 24px;
+    top: 108px;
+    left: 43px;
+    color: #FFFFFF;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 23.1px;
+    letter-spacing: 0%;
+    vertical-align: middle;    
+}
+.HTRIRlogo{
+    position: absolute;
+    width: 12px;
+    height: 16.8px;
+    top: 111px;
+    left: 215px;    
+}
+.number{
+    position: absolute;
+    width: 112px;
+    height: 24px;
+    top: 138.5px;
+    left: 42px; 
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 23.1px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;       
+}
+.numberLogo{
+    position: absolute;
+    width: 16.5px;
+    height: 16.5px;
+    top: 142px;
+    left: 169.5px;
+}
+.mailF{
+    position: absolute;
+    color: white;
+    width: 113px;
+    height: 24px;
+    top: 169px;
+    left: 48px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 23.1px;
+    letter-spacing: 0%;
+    vertical-align: middle;   
+}
+.mailImg{
+    position: absolute;
+    width: 19.5px;
+    height: 19.5px;
+    top: 171px;
+    left: 176.75px;    
+}
+.social{
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    width: 160px;
+    height: 17px;
+    top: 207px;
+    left: 49px;
+    gap: 18px;    
+}
+.EXPLORE{
+    position: absolute;
+    width: 64px;
+    height: 23px;
+    top: 257px;
+    left: 44px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: #FFFFFF;    
+}
+.ExpITEMS{
+    position: absolute;
+    width: 148;
+    height: 197;
+    top: 296.73px;
+    left: 44px;
+    gap: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22.4px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+}
+.RANKINGS{
+    position: absolute;
+    width: 77px;
+    height: 23px;
+    left: 44px;
+    top: 526px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.RContent{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 6px;
+    position: absolute;
+    width: 34px;
+    height: 52px;
+    left: 44px;
+    top: 565px;
+    color: white;
+    justify-content: space-between;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22.4px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+}
+.QA{
+    position: absolute;
+    width: 106px;
+    height: 23px;
+    top: 643px;
+    left: 45px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    vertical-align: middle;    
+    color: white;
+}
+.QAitems{
+    position: absolute;
+    width: 189px;
+    height: 255px;
+    top: 681.73px;
+    left: 45px;
+    gap: 6px;    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22.4px;
+    vertical-align: middle; 
+    color: white;   
+}
+.QL{
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    top: 970px;
+    left: 43px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: white;
+}
+.QLitems{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 60;
+    height: 81;
+    top: 1000px;
+    left: 43px;
+    gap: 6px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22.4px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: white;  
+}
+.SM{
+    position: absolute;
+    width: 360px;
+    height: 31px;
+    top: 1100px;
+    background-color: #121212;
+}
+.SMcontent{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 270px;
+    height: 31px;
+    left: 45px;
+    gap: 60px;
+    color: white;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 30.8px;
+    vertical-align: middle;    
+}
+.LoveIMG{
+    position: absolute;
+    width: 360px;
+    height: 31px;
+    top: 1131px;
+    background-color: #1a1a1a;
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 30.8px;
+    vertical-align: middle;
+    color: white;    
+}
+.copyright{
+    position: absolute;
+    text-align: center;
+    background-color: #292929;
+    width: 360px;
+    height: 31px;
+    top: 1162px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 30.8px;
+    vertical-align: middle;
+    color: #f7f7f7;    
+}
